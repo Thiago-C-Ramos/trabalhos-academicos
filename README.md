@@ -42,7 +42,6 @@ Projeto desenvolvido em C para implementar e manipular uma **lista simplesmente 
 - Inserção, remoção e alteração de elementos
 - Consulta e listagem de elementos
 - Menu interativo via terminal
-- Documentação acadêmica em ABNT (`docs/Relatorio_Tecnico.pdf`)
 
 ---
 
