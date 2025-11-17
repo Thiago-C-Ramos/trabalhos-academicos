@@ -1,7 +1,7 @@
-<h1>📚 Trabalhos Acadêmicos em Java – Sistemas de Informação (UVA)</h1>
+<h1>📚 Trabalhos Acadêmicos em Java e C – Sistemas de Informação (UVA)</h1>
 
 <h3>🧾 Descrição</h3>
-Este repositório reúne os principais projetos desenvolvidos durante a graduação em Sistemas de Informação na Universidade Veiga de Almeida (UVA). Cada projeto representa a aplicação prática de conceitos de Programação Orientada a Objetos (POO), estruturados conforme as exigências acadêmicas.
+Este repositório reúne os principais projetos desenvolvidos durante a graduação em Sistemas de Informação na Universidade Veiga de Almeida (UVA). Cada projeto representa a aplicação prática de conceitos de Programação Orientada a Objetos (POO) em Java ou de programação estruturada em C, estruturados conforme as exigências acadêmicas.
 
 ---
 
@@ -32,12 +32,31 @@ Projeto completo aplicando herança, abstração e polimorfismo para modelar dif
 
 ---
 
+### 3️⃣ [Lista Simplesmente Encadeada – Linguagem C](https://github.com/Thiago-C-Ramos/ED-Lista-Simplesmente-Encadeada) 
+
+Projeto desenvolvido em C para implementar e manipular uma **lista simplesmente encadeada**, aplicando conceitos de programação estruturada.<br></br>
+📌 Destaques:
+- Estruturas (`struct`) e ponteiros
+- Alocação dinâmica de memória (`malloc` e `free`)
+- Criação e manipulação de nós
+- Inserção, remoção e alteração de elementos
+- Consulta e listagem de elementos
+- Menu interativo via terminal
+- Documentação acadêmica em ABNT (`docs/Relatorio_Tecnico.pdf`)
+
+---
+
 <h3>🚀 Tecnologias Utilizadas</h3>
 
 - Java 17+
 - Programação Orientada a Objetos
 - Scanner (entrada de dados via terminal)
 - Estrutura de repetição e controle de fluxo
+- Linguagem C
+- GCC (GNU Compiler Collection)
+- Estruturas e ponteiros
+- Alocação dinâmica (`malloc` e `free`)
+- Menu interativo via terminal
 
 ---
 
